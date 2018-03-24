@@ -1,0 +1,22 @@
+{
+  "name": "duckhacks_2018",
+  "version": "1.0.0",
+  "description": "A blockchain-based indiegogo/kickstarter-type product that aims to better the world",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "db": "json-server --watch db.json --port 3001"
+  },
+  "author": "Andrew Chen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "json-server": "^0.12.1",
+    "nodemon": "^1.17.2"
+  }
+}
