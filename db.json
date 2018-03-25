@@ -4,36 +4,28 @@
       "title": "Give Books for Education",
       "org": "RPC",
       "goal": 1000,
-      "desc": "this is a test entry",
+      "desc": "This is gonna be a slightly longer boyasdlfkjasldfsadfasfasdfdsafsdfasfasd",
+      "pic": "africa.jpg",
+      "author": 0,
+      "id": 1
+    },
+    {
+      "title": "Hurricane Maria Relief",
+      "org": "RPC",
+      "goal": 1000,
+      "desc": "Millions of people are displaced in Puerto rico. Help out by donating to a cause that will benefit millions.",
+      "pic": "hurricane.jpg",
+      "author": 0,
       "id": 2
     },
     {
-      "title": "Give Books for Education",
+      "title": "Improve education in Mexico",
       "org": "RPC",
       "goal": 1000,
-      "desc": "this is a test entry",
-      "id": 7
-    },
-    {
-      "title": "Give Books for Education",
-      "org": "RPC",
-      "goal": 1000,
-      "desc": "this is a test entry",
-      "id": 8
-    },
-    {
-      "title": "Give Books for Education",
-      "org": "RPC",
-      "goal": 1000,
-      "desc": "This is gonna be a slightly longer boy",
-      "id": 9
-    },
-    {
-      "title": "Give Books for Education",
-      "org": "RPC",
-      "goal": 1000,
-      "desc": "This is gonna be a slightly longer boyasdlfkjasldfsadfasfasdfdsafsdfasfasd",
-      "id": 10
+      "desc": "Help to improve education conditions in rural Mexico. We are helping by providing stipends to teachers in Mexico to encourage them to move closer to the rural areas of Mexico",
+      "pic": "mexico.jpg",
+      "author": 1,
+      "id": 4
     }
   ]
 }
